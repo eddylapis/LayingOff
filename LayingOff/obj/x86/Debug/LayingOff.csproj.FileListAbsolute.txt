@@ -1,0 +1,14 @@
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\bin\x86\Debug\LayingOff.exe.config
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\bin\x86\Debug\LayingOff.exe
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\bin\x86\Debug\LayingOff.pdb
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.csprojResolveAssemblyReference.cache
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.Equation.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.MainForm.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.MoreDetail.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.Properties.Resources.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.SearchForm.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.csproj.GenerateResource.Cache
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.exe
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.pdb
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.AddItem.resources
+H:\门业下料软件开发\门业软件开发\Code\LayingOff\LayingOff\obj\x86\Debug\LayingOff.DelItem.resources

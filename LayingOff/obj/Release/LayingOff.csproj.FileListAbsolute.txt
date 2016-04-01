@@ -1,0 +1,9 @@
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\bin\Release\LayingOff.exe.config
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\bin\Release\LayingOff.exe
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\bin\Release\LayingOff.pdb
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.Equation.resources
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.MainForm.resources
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.Properties.Resources.resources
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.csproj.GenerateResource.Cache
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.exe
+H:\门业下料软件开发\鞍山山犬门业软件开发\Code\LayingOff\LayingOff\obj\Release\LayingOff.pdb
