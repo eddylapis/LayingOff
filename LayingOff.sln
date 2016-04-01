@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayingOff", "LayingOff\LayingOff.csproj", "{80C74D6B-CAC9-402C-B404-D04720108710}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "下料软件", "下料软件\下料软件.vdproj", "{D6B23D0D-CCB8-405C-A758-65ED730A3F50}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Any CPU = CD_ROM|Any CPU
@@ -39,16 +37,6 @@ Global
 		{80C74D6B-CAC9-402C-B404-D04720108710}.SingleImage|Any CPU.Build.0 = Release|Any CPU
 		{80C74D6B-CAC9-402C-B404-D04720108710}.SingleImage|x86.ActiveCfg = Release|x86
 		{80C74D6B-CAC9-402C-B404-D04720108710}.SingleImage|x86.Build.0 = Release|x86
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.CD_ROM|Any CPU.ActiveCfg = Release
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.CD_ROM|x86.ActiveCfg = Release
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.Debug|Any CPU.ActiveCfg = Debug
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.Debug|x86.ActiveCfg = Debug
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.DVD-5|Any CPU.ActiveCfg = Debug
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.DVD-5|x86.ActiveCfg = Debug
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.Release|Any CPU.ActiveCfg = Release
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.Release|x86.ActiveCfg = Release
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.SingleImage|Any CPU.ActiveCfg = Release
-		{D6B23D0D-CCB8-405C-A758-65ED730A3F50}.SingleImage|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
